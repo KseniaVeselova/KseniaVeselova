@@ -17,6 +17,7 @@ Libraries: pandas, matplotlib.pyplot, math, numpy, seaborn, scipy
 
 Project 5 – Business data analytics - Unit-economy. Evaluate the entertainment  product payback of an advertising, LTV, CAC and ROI.
 Libraries: pandas, matplotlib.pyplot, numpy
+
 Project 6– Making business data analytics -  Checking the hypothesis of internet shop revenue increasing. Evaluate the A/B test results.
 Libraries: pandas, matplotlib.pyplot, math, numpy
 
